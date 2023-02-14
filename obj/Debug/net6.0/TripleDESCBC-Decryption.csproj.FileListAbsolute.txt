@@ -1,0 +1,15 @@
+C:\Users\genot\source\repos\TripleDESCBC-Decryption\bin\Debug\net6.0\TripleDESCBC-Decryption.exe
+C:\Users\genot\source\repos\TripleDESCBC-Decryption\bin\Debug\net6.0\TripleDESCBC-Decryption.deps.json
+C:\Users\genot\source\repos\TripleDESCBC-Decryption\bin\Debug\net6.0\TripleDESCBC-Decryption.runtimeconfig.json
+C:\Users\genot\source\repos\TripleDESCBC-Decryption\bin\Debug\net6.0\TripleDESCBC-Decryption.dll
+C:\Users\genot\source\repos\TripleDESCBC-Decryption\bin\Debug\net6.0\TripleDESCBC-Decryption.pdb
+C:\Users\genot\source\repos\TripleDESCBC-Decryption\obj\Debug\net6.0\TripleDESCBC-Decryption.csproj.AssemblyReference.cache
+C:\Users\genot\source\repos\TripleDESCBC-Decryption\obj\Debug\net6.0\TripleDESCBC-Decryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\genot\source\repos\TripleDESCBC-Decryption\obj\Debug\net6.0\TripleDESCBC-Decryption.AssemblyInfoInputs.cache
+C:\Users\genot\source\repos\TripleDESCBC-Decryption\obj\Debug\net6.0\TripleDESCBC-Decryption.AssemblyInfo.cs
+C:\Users\genot\source\repos\TripleDESCBC-Decryption\obj\Debug\net6.0\TripleDESCBC-Decryption.csproj.CoreCompileInputs.cache
+C:\Users\genot\source\repos\TripleDESCBC-Decryption\obj\Debug\net6.0\TripleDESCBC-Decryption.dll
+C:\Users\genot\source\repos\TripleDESCBC-Decryption\obj\Debug\net6.0\refint\TripleDESCBC-Decryption.dll
+C:\Users\genot\source\repos\TripleDESCBC-Decryption\obj\Debug\net6.0\TripleDESCBC-Decryption.pdb
+C:\Users\genot\source\repos\TripleDESCBC-Decryption\obj\Debug\net6.0\TripleDESCBC-Decryption.genruntimeconfig.cache
+C:\Users\genot\source\repos\TripleDESCBC-Decryption\obj\Debug\net6.0\ref\TripleDESCBC-Decryption.dll
